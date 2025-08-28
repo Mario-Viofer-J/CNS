@@ -79,3 +79,6 @@ void main()
 
 ## OUTPUT :-
 <img width="1455" height="668" alt="image" src="https://github.com/user-attachments/assets/0f5a0d70-763e-40cd-a978-3bb2e338efce" />
+
+## RESULT:
+The program is executed successfully
